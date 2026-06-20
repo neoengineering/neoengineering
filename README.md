@@ -37,7 +37,7 @@
 <div align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=neoengineering&theme=dracula&column=4&margin-w=15&margin-h=15"
-   
+    alt="GitHub Trophies"
   />
 </div>
 
