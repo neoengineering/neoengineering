@@ -1,50 +1,46 @@
-<div align="center">
+<h1 data-importer="text" align="center">hey, i'm Neo.</h1>
 
-```
-nogitian
-```
+###
 
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="60" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
 </div>
 
-<br>
+###
 
-```
-software development  ·  data analysis
-```
-
-<br>
-
-**stack**
-
-![Ruby](https://img.shields.io/badge/Ruby-0d1117?style=flat-square&logo=ruby&logoColor=CC342D)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Discord.js](https://img.shields.io/badge/Discord.js-0d1117?style=flat-square&logo=discord&logoColor=5865F2)
-
-<br>
-
-**this month**
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nogitian&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=false&hide=stars&theme=transparent&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&line_height=20&custom_title=&text_color=8b949e&icon_color=7c3aed&title_color=e6edf3&rank_icon=github&number_format=short" height="90"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Nogitian&theme=transparent&hide_border=true&date_format=Y-m-d&stroke=0d1117&ring=7c3aed&fire=7c3aed&currStreakNum=e6edf3&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=4a5568" height="90"/>
-
-<br>
-
-**languages**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nogitian&layout=compact&theme=transparent&hide_border=true&hide_title=true&langs_count=6&text_color=8b949e&title_color=e6edf3" height="120"/>
-
-<br>
-
-```
-─────────────────────────────────────────────────
-```
-
-<div align="center">
-
-<sub>contributions · commits · pull requests · reviews</sub>
-
+<div data-importer="socials" align="center">
+  <a href="https://x.com/frequencyneo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
 </div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=neoengineering&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/neoengineering/neoengineering/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neoengineering/neoengineering/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neoengineering/neoengineering/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/neoengineering/neoengineering/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<br clear="both">
+
+<p data-importer="text" align="left">Desenvolvedor brasileiro, apreciador de café e amante de gatos. Este perfil representa o pseudônimo Neo, alter ego por trás da concepção, desenvolvimento e manutenção de todos os projetos.</p>
+
+###
